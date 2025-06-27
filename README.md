@@ -1,6 +1,6 @@
 # Groww Assignment 
 
-In this project I followed Clean Architechture and fetch the data from API. you can see stock rates and price charts. You can directly download the app in Release section.
+In this project I followed Clean Architechture and fetch the data from API. you can see stock rates and price charts. You can directly download the app in [Release](https://github.com/Aditya3815/Groww_Assignment/releases/tag/v1.0.0) section.
 Here is the demo.
 
 ## Demo
