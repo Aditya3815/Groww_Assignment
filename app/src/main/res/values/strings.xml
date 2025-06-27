@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Groww_Assignment</string>
+    <string name="explore">Explore</string>
+    <string name="watchlist">Watchlist</string>
+    <string name="top_gainers">Top Gainers</string>
+    <string name="top_losers">Top Losers</string>
+    <string name="view_all">View All</string>
+    <string name="add_to_watchlist">Add to Watchlist</string>
+    <string name="remove_from_watchlist">Remove from Watchlist</string>
+    <string name="create_watchlist">Create Watchlist</string>
+    <string name="watchlist_name">Watchlist Name</string>
+    <string name="loading">Loading…</string>
+    <string name="error_occurred">An error occurred</string>
+    <string name="no_data_available">No data available</string>
+    <string name="retry">Retry</string>
+    <string name="search_stocks">Search stocks…</string>
+</resources>
